@@ -2042,5 +2042,6 @@
 				"foreground": "#ABB2BF"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true
 }
